@@ -146,6 +146,73 @@
     "LObjParam": "",
     "Label": "Sdodrブラスター",
     "LockerContentInfo": [],
+    "MatchingId": 5030,
+    "NpcActor": "Work/Actor/WmnS_Blaster_ExtraOne_Sdodr.engine__actor__ActorParam.gyml",
+    "Range": 0.0,
+    "RewardLv2": "",
+    "RewardLv3": "",
+    "RewardLv4": "",
+    "RewardLv5": "",
+    "Season": 999,
+    "ShopPrice": 0,
+    "ShopUnlockRank": -1,
+    "SpecActor": "Work/Actor/WeaponBlasterExtraOne_Sdodr.engine__actor__ActorParam.gyml",
+    "SpecialPoint": 200,
+    "SpecialWeapon": "",
+    "SubWeapon": "",
+    "Type": "Versus",
+    "UIParam": [
+      {
+        "Type": "Range",
+        "Value": 0
+      },
+      {
+        "Type": "Range",
+        "Value": 0
+      },
+      {
+        "Type": "Range",
+        "Value": 0
+      }
+    ],
+    "WeaponInfoForCoop": "Work/Gyml/Maneuver_Dual_Coop.spl__WeaponInfoMain.gyml",
+    "__RowId": "Blaster_ExtraOne_Sdodr"
+  },
+  {
+    "DebugDispColumn": 0,
+    "DebugDispOrder": 6070,
+    "DefaultDamageRateInfoRow": "Default",
+    "DefaultHitEffectorType": "Blaster",
+    "ExtraDamageRateInfoRowSet": [
+      {
+        "DamageRateInfoRow": "Blaster_KillOneShot",
+        "ExtraInfo": "Normal"
+      },
+      {
+        "DamageRateInfoRow": "Blaster_BlasterMiddle",
+        "ExtraInfo": "ExtraBombCore"
+      },
+      {
+        "DamageRateInfoRow": "Blaster_BlasterMiddle",
+        "ExtraInfo": "BlasterWeakBlast"
+      }
+    ],
+    "ExtraHitEffectorInfoSet": [
+      {
+        "ExtraInfo": "ExtraBombCore",
+        "HitEffectorType": "Blaster_ExtraBombCore"
+      },
+      {
+        "ExtraInfo": "BlasterWeakBlast",
+        "HitEffectorType": "Blaster_ExtraBombCoreWeak"
+      }
+    ],
+    "GameActor": "Work/Actor/WmnG_Blaster_ExtraOne_Sdodr.engine__actor__ActorParam.gyml",
+    "Id": 60700,
+    "IsCoopRare": true,
+    "LObjParam": "",
+    "Label": "Sdodrブラスター",
+    "LockerContentInfo": [],
     "MatchingId": 0,
     "NpcActor": "Work/Actor/WmnS_Blaster_ExtraOne_Sdodr.engine__actor__ActorParam.gyml",
     "Range": 0.0,
